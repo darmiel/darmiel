@@ -1,4 +1,6 @@
 # Hi
+On this profile I experiment a little bit with new frameworks or new languages.
+
 ```
  _________         .    .
 (..       \_    ,  |\  /|
