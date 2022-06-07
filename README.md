@@ -13,9 +13,3 @@ Do not expect even one repository to work.
        ^'
 ```
 bug me on **bug@d2a.io**
-
----
-
-<p align="center">StackOverflow
-   <a href="https://stackoverflow.com/story/darmiel">Story</a>
-</p>
