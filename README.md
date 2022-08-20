@@ -12,4 +12,4 @@ Do not expect even one repository to work.
        \\               "             "            a:f
        ^'
 ```
-bug me on **bug@d2a.io**
+bug me on **asdf@qwer.tz**
