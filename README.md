@@ -12,4 +12,4 @@ Do not expect even one repository to work.
        \\               "             "            a:f
        ^'
 ```
-bug me on **asdf@qwer.tz**
+contact me on **asdf@qwer.tz**
