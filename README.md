@@ -1,6 +1,6 @@
 # Hi 👋
 
-> ![WARNING]
+> [!WARNING]
 > Do not expect any repository to work. Most are just for experimenting :)
 
 ```
