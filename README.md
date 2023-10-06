@@ -1,7 +1,7 @@
 # Hi 👋
 
-On this profile I experiment a little bit with new frameworks or new languages.  
-Do not expect even one repository to work.
+> ![WARNING]
+> Do not expect any repository to work. Most are just for experimenting :)
 
 ```
            boing         boing         boing              
@@ -12,4 +12,3 @@ Do not expect even one repository to work.
        \\               "             "            a:f
        ^'
 ```
-contact me on **asdf@qwer.tz**
